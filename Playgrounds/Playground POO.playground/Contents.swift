@@ -17,3 +17,13 @@ you.name
 you.name = "Paul"
 me.name
 you.name
+
+var pubYear: Optional<Int> = 90
+
+if let year = pubYear {
+    print(year)
+}
+
+
+
+
