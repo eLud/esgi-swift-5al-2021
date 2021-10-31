@@ -11,7 +11,7 @@ import SwiftUI
 struct ESGIDemoApp: App {
     var body: some Scene {
          WindowGroup {
-             ContentView()
+             ContentView(parking: Parking())
         }
     }
 }

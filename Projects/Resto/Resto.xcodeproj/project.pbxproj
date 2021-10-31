@@ -7,43 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		335CDBC426E2667E0071F297 /* ESGIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBB626E2667B0071F297 /* ESGIDemoApp.swift */; };
-		335CDBC526E2667E0071F297 /* ESGIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBB626E2667B0071F297 /* ESGIDemoApp.swift */; };
-		335CDBC626E2667E0071F297 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBB726E2667B0071F297 /* ContentView.swift */; };
-		335CDBC726E2667E0071F297 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBB726E2667B0071F297 /* ContentView.swift */; };
-		335CDBC826E2667E0071F297 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 335CDBB826E2667E0071F297 /* Assets.xcassets */; };
-		335CDBC926E2667E0071F297 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 335CDBB826E2667E0071F297 /* Assets.xcassets */; };
-		335CDBD326E26C270071F297 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBD226E26C270071F297 /* ColorView.swift */; };
-		335CDBD426E26C270071F297 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335CDBD226E26C270071F297 /* ColorView.swift */; };
-		33E93834272C1DB8009B4A47 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93833272C1DB8009B4A47 /* Car.swift */; };
-		33E93835272C1DB8009B4A47 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93833272C1DB8009B4A47 /* Car.swift */; };
-		33E93837272C2AA7009B4A47 /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93836272C2AA7009B4A47 /* CustomSlider.swift */; };
-		33E93838272C2AA7009B4A47 /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93836272C2AA7009B4A47 /* CustomSlider.swift */; };
-		33E9383A272C3CE7009B4A47 /* IdentityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93839272C3CE7009B4A47 /* IdentityView.swift */; };
-		33E9383B272C3CE7009B4A47 /* IdentityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93839272C3CE7009B4A47 /* IdentityView.swift */; };
+		33E93852272C482B009B4A47 /* RestoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93842272C4828009B4A47 /* RestoApp.swift */; };
+		33E93853272C482B009B4A47 /* RestoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93842272C4828009B4A47 /* RestoApp.swift */; };
+		33E93854272C482B009B4A47 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93843272C4828009B4A47 /* ContentView.swift */; };
+		33E93855272C482B009B4A47 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93843272C4828009B4A47 /* ContentView.swift */; };
+		33E93856272C482B009B4A47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33E93844272C482A009B4A47 /* Assets.xcassets */; };
+		33E93857272C482B009B4A47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33E93844272C482A009B4A47 /* Assets.xcassets */; };
+		33E93861272C4842009B4A47 /* Rsto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93860272C4842009B4A47 /* Rsto.swift */; };
+		33E93862272C4842009B4A47 /* Rsto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E93860272C4842009B4A47 /* Rsto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		335CDBB626E2667B0071F297 /* ESGIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ESGIDemoApp.swift; sourceTree = "<group>"; };
-		335CDBB726E2667B0071F297 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		335CDBB826E2667E0071F297 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		335CDBBD26E2667E0071F297 /* ESGIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ESGIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		335CDBC326E2667E0071F297 /* ESGIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ESGIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		335CDBD226E26C270071F297 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
-		33E93833272C1DB8009B4A47 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
-		33E93836272C2AA7009B4A47 /* CustomSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSlider.swift; sourceTree = "<group>"; };
-		33E93839272C3CE7009B4A47 /* IdentityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentityView.swift; sourceTree = "<group>"; };
+		33E93842272C4828009B4A47 /* RestoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestoApp.swift; sourceTree = "<group>"; };
+		33E93843272C4828009B4A47 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		33E93844272C482A009B4A47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		33E93849272C482A009B4A47 /* Resto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Resto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		33E9384F272C482B009B4A47 /* Resto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Resto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		33E93851272C482B009B4A47 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		33E93860272C4842009B4A47 /* Rsto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rsto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		335CDBBA26E2667E0071F297 /* Frameworks */ = {
+		33E93846272C482A009B4A47 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		335CDBC026E2667E0071F297 /* Frameworks */ = {
+		33E9384C272C482B009B4A47 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -53,93 +45,99 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		335CDBB026E2667B0071F297 = {
+		33E9383C272C4828009B4A47 = {
 			isa = PBXGroup;
 			children = (
-				335CDBB526E2667B0071F297 /* Shared */,
-				335CDBBE26E2667E0071F297 /* Products */,
+				33E93841272C4828009B4A47 /* Shared */,
+				33E93850272C482B009B4A47 /* macOS */,
+				33E9384A272C482A009B4A47 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		335CDBB526E2667B0071F297 /* Shared */ = {
+		33E93841272C4828009B4A47 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				335CDBB626E2667B0071F297 /* ESGIDemoApp.swift */,
-				335CDBB726E2667B0071F297 /* ContentView.swift */,
-				33E93839272C3CE7009B4A47 /* IdentityView.swift */,
-				335CDBD226E26C270071F297 /* ColorView.swift */,
-				335CDBB826E2667E0071F297 /* Assets.xcassets */,
-				33E93833272C1DB8009B4A47 /* Car.swift */,
-				33E93836272C2AA7009B4A47 /* CustomSlider.swift */,
+				33E93842272C4828009B4A47 /* RestoApp.swift */,
+				33E93843272C4828009B4A47 /* ContentView.swift */,
+				33E93844272C482A009B4A47 /* Assets.xcassets */,
+				33E93860272C4842009B4A47 /* Rsto.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		335CDBBE26E2667E0071F297 /* Products */ = {
+		33E9384A272C482A009B4A47 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				335CDBBD26E2667E0071F297 /* ESGIDemo.app */,
-				335CDBC326E2667E0071F297 /* ESGIDemo.app */,
+				33E93849272C482A009B4A47 /* Resto.app */,
+				33E9384F272C482B009B4A47 /* Resto.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		33E93850272C482B009B4A47 /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				33E93851272C482B009B4A47 /* macOS.entitlements */,
+			);
+			path = macOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		335CDBBC26E2667E0071F297 /* ESGIDemo (iOS) */ = {
+		33E93848272C482A009B4A47 /* Resto (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 335CDBCC26E2667E0071F297 /* Build configuration list for PBXNativeTarget "ESGIDemo (iOS)" */;
+			buildConfigurationList = 33E9385A272C482B009B4A47 /* Build configuration list for PBXNativeTarget "Resto (iOS)" */;
 			buildPhases = (
-				335CDBB926E2667E0071F297 /* Sources */,
-				335CDBBA26E2667E0071F297 /* Frameworks */,
-				335CDBBB26E2667E0071F297 /* Resources */,
+				33E93845272C482A009B4A47 /* Sources */,
+				33E93846272C482A009B4A47 /* Frameworks */,
+				33E93847272C482A009B4A47 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "ESGIDemo (iOS)";
-			productName = "ESGIDemo (iOS)";
-			productReference = 335CDBBD26E2667E0071F297 /* ESGIDemo.app */;
+			name = "Resto (iOS)";
+			productName = "Resto (iOS)";
+			productReference = 33E93849272C482A009B4A47 /* Resto.app */;
 			productType = "com.apple.product-type.application";
 		};
-		335CDBC226E2667E0071F297 /* ESGIDemo (macOS) */ = {
+		33E9384E272C482B009B4A47 /* Resto (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 335CDBCF26E2667E0071F297 /* Build configuration list for PBXNativeTarget "ESGIDemo (macOS)" */;
+			buildConfigurationList = 33E9385D272C482B009B4A47 /* Build configuration list for PBXNativeTarget "Resto (macOS)" */;
 			buildPhases = (
-				335CDBBF26E2667E0071F297 /* Sources */,
-				335CDBC026E2667E0071F297 /* Frameworks */,
-				335CDBC126E2667E0071F297 /* Resources */,
+				33E9384B272C482B009B4A47 /* Sources */,
+				33E9384C272C482B009B4A47 /* Frameworks */,
+				33E9384D272C482B009B4A47 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "ESGIDemo (macOS)";
-			productName = "ESGIDemo (macOS)";
-			productReference = 335CDBC326E2667E0071F297 /* ESGIDemo.app */;
+			name = "Resto (macOS)";
+			productName = "Resto (macOS)";
+			productReference = 33E9384F272C482B009B4A47 /* Resto.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		335CDBB126E2667B0071F297 /* Project object */ = {
+		33E9383D272C4828009B4A47 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					335CDBBC26E2667E0071F297 = {
-						CreatedOnToolsVersion = 13.0;
+					33E93848272C482A009B4A47 = {
+						CreatedOnToolsVersion = 13.1;
 					};
-					335CDBC226E2667E0071F297 = {
-						CreatedOnToolsVersion = 13.0;
+					33E9384E272C482B009B4A47 = {
+						CreatedOnToolsVersion = 13.1;
 					};
 				};
 			};
-			buildConfigurationList = 335CDBB426E2667B0071F297 /* Build configuration list for PBXProject "ESGIDemo" */;
+			buildConfigurationList = 33E93840272C4828009B4A47 /* Build configuration list for PBXProject "Resto" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -147,67 +145,61 @@
 				en,
 				Base,
 			);
-			mainGroup = 335CDBB026E2667B0071F297;
-			productRefGroup = 335CDBBE26E2667E0071F297 /* Products */;
+			mainGroup = 33E9383C272C4828009B4A47;
+			productRefGroup = 33E9384A272C482A009B4A47 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				335CDBBC26E2667E0071F297 /* ESGIDemo (iOS) */,
-				335CDBC226E2667E0071F297 /* ESGIDemo (macOS) */,
+				33E93848272C482A009B4A47 /* Resto (iOS) */,
+				33E9384E272C482B009B4A47 /* Resto (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		335CDBBB26E2667E0071F297 /* Resources */ = {
+		33E93847272C482A009B4A47 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				335CDBC826E2667E0071F297 /* Assets.xcassets in Resources */,
+				33E93856272C482B009B4A47 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		335CDBC126E2667E0071F297 /* Resources */ = {
+		33E9384D272C482B009B4A47 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				335CDBC926E2667E0071F297 /* Assets.xcassets in Resources */,
+				33E93857272C482B009B4A47 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		335CDBB926E2667E0071F297 /* Sources */ = {
+		33E93845272C482A009B4A47 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				335CDBD326E26C270071F297 /* ColorView.swift in Sources */,
-				33E93837272C2AA7009B4A47 /* CustomSlider.swift in Sources */,
-				335CDBC626E2667E0071F297 /* ContentView.swift in Sources */,
-				33E93834272C1DB8009B4A47 /* Car.swift in Sources */,
-				33E9383A272C3CE7009B4A47 /* IdentityView.swift in Sources */,
-				335CDBC426E2667E0071F297 /* ESGIDemoApp.swift in Sources */,
+				33E93854272C482B009B4A47 /* ContentView.swift in Sources */,
+				33E93852272C482B009B4A47 /* RestoApp.swift in Sources */,
+				33E93861272C4842009B4A47 /* Rsto.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		335CDBBF26E2667E0071F297 /* Sources */ = {
+		33E9384B272C482B009B4A47 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				335CDBD426E26C270071F297 /* ColorView.swift in Sources */,
-				33E93838272C2AA7009B4A47 /* CustomSlider.swift in Sources */,
-				335CDBC726E2667E0071F297 /* ContentView.swift in Sources */,
-				33E93835272C1DB8009B4A47 /* Car.swift in Sources */,
-				33E9383B272C3CE7009B4A47 /* IdentityView.swift in Sources */,
-				335CDBC526E2667E0071F297 /* ESGIDemoApp.swift in Sources */,
+				33E93855272C482B009B4A47 /* ContentView.swift in Sources */,
+				33E93853272C482B009B4A47 /* RestoApp.swift in Sources */,
+				33E93862272C4842009B4A47 /* Rsto.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		335CDBCA26E2667E0071F297 /* Debug */ = {
+		33E93858272C482B009B4A47 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -266,7 +258,7 @@
 			};
 			name = Debug;
 		};
-		335CDBCB26E2667E0071F297 /* Release */ = {
+		33E93859272C482B009B4A47 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -318,7 +310,7 @@
 			};
 			name = Release;
 		};
-		335CDBCD26E2667E0071F297 /* Debug */ = {
+		33E9385B272C482B009B4A47 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -339,8 +331,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.ESGIDemo;
-				PRODUCT_NAME = ESGIDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.Resto;
+				PRODUCT_NAME = Resto;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -348,7 +340,7 @@
 			};
 			name = Debug;
 		};
-		335CDBCE26E2667E0071F297 /* Release */ = {
+		33E9385C272C482B009B4A47 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -369,8 +361,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.ESGIDemo;
-				PRODUCT_NAME = ESGIDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.Resto;
+				PRODUCT_NAME = Resto;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -379,58 +371,56 @@
 			};
 			name = Release;
 		};
-		335CDBD026E2667E0071F297 /* Debug */ = {
+		33E9385E272C482B009B4A47 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A7SGM6JEMA;
-				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.ESGIDemo;
-				PRODUCT_NAME = ESGIDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.Resto;
+				PRODUCT_NAME = Resto;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		335CDBD126E2667E0071F297 /* Release */ = {
+		33E9385F272C482B009B4A47 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A7SGM6JEMA;
-				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.ESGIDemo;
-				PRODUCT_NAME = ESGIDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.esgi.Resto;
+				PRODUCT_NAME = Resto;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -440,34 +430,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		335CDBB426E2667B0071F297 /* Build configuration list for PBXProject "ESGIDemo" */ = {
+		33E93840272C4828009B4A47 /* Build configuration list for PBXProject "Resto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				335CDBCA26E2667E0071F297 /* Debug */,
-				335CDBCB26E2667E0071F297 /* Release */,
+				33E93858272C482B009B4A47 /* Debug */,
+				33E93859272C482B009B4A47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		335CDBCC26E2667E0071F297 /* Build configuration list for PBXNativeTarget "ESGIDemo (iOS)" */ = {
+		33E9385A272C482B009B4A47 /* Build configuration list for PBXNativeTarget "Resto (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				335CDBCD26E2667E0071F297 /* Debug */,
-				335CDBCE26E2667E0071F297 /* Release */,
+				33E9385B272C482B009B4A47 /* Debug */,
+				33E9385C272C482B009B4A47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		335CDBCF26E2667E0071F297 /* Build configuration list for PBXNativeTarget "ESGIDemo (macOS)" */ = {
+		33E9385D272C482B009B4A47 /* Build configuration list for PBXNativeTarget "Resto (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				335CDBD026E2667E0071F297 /* Debug */,
-				335CDBD126E2667E0071F297 /* Release */,
+				33E9385E272C482B009B4A47 /* Debug */,
+				33E9385F272C482B009B4A47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 335CDBB126E2667B0071F297 /* Project object */;
+	rootObject = 33E9383D272C4828009B4A47 /* Project object */;
 }
